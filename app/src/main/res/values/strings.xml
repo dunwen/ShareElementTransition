@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareElementTransition</string>
+    <string name="maincontain">俗语云“无码胜有码”，虽然我们并不是真的推荐完全不写代码，但是代码对你的app而言应该有独立的价值,而不是将日常那些支离破碎的代码拷贝在一起。Android Support Library就是帮你完成各种细小功能的最佳资源之一。
+
+最新版本的Support库加入和修改了很多组件，包了Support V4，AppCompat，Leanback，</string>
+
+    <string name="transitionName" translatable="false">transitionName</string>
+</resources>
